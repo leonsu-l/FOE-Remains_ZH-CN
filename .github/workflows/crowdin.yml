@@ -2,7 +2,7 @@ name: Crowdin Action
 
 on:
   push:
-    branches: [ main ]
+    branches: [ crowdin_test ]
   workflow_dispatch:
 
 jobs:
